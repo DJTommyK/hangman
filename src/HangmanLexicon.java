@@ -1,11 +1,11 @@
 /*
- * File: HangmanLexicon.java
+ * File: HangmanLexicon.java 
  * -------------------------
  * This file contains a stub implementation of the HangmanLexicon
  * class that you will reimplement for Part III of the assignment.
  */
 
-import acm.util.*;
+import acm.util.*; 
 import java.io.*;
 import java.util.*;
 
